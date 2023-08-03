@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo shown -h vincent:staff _hello
+chown -h vincent:staff _hello
